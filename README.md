@@ -9,8 +9,12 @@
 </div>
 <br>
 
-<img align="right" height="150" src="https://i.imgflip.com/8ygalo.jpg"  />
-
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ftn-psi&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <blockquote>
+    <p><em>"The best programmers aren't those who know the most – they're the ones who never give up."</em></p>
+  </blockquote>
+</div>
 
 <div align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -33,14 +37,6 @@
   <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" />
 </div>
 
-
-###
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ftn-psi&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <blockquote>
-    <p><em>"The best programmers aren't those who know the most – they're the ones who never give up."</em></p>
-  </blockquote>
-</div>
 
 
 ###
