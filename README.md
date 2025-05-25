@@ -14,9 +14,11 @@
 
 </div>
 <br><br>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
   <blockquote>
     <p><em>"The best programmers aren't those who know the most – they're the ones who never give up."</em></p>
   </blockquote>
+</div>
 <br><br>
 
 <div align="left">
