@@ -11,12 +11,12 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sekuchu&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br>
+
+</div>
+<br><br>
   <blockquote>
     <p><em>"The best programmers aren't those who know the most – they're the ones who never give up."</em></p>
   </blockquote>
-
-</div>
 <br><br>
 
 <div align="left">
