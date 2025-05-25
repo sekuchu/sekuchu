@@ -15,6 +15,7 @@
     <p><em>"The best programmers aren't those who know the most – they're the ones who never give up."</em></p>
   </blockquote>
 </div>
+<br><br>
 
 <div align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
