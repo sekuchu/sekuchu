@@ -11,7 +11,7 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sekuchu&theme=dark&hide_border=false" alt="GitHub Streak" />
-   <p style="color: gray;">"The best programmers aren't those who know the most – they're the ones who never give up."</p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </div>
 <br><br>
 
