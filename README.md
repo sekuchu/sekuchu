@@ -1,19 +1,15 @@
 <h2 align="left">Hi 👋! My name is Branko and I'm a Software Engineer, from Serbia</h2>
 
-###
-
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sekuchu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sekuchu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<br>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sekuchu&theme=dark&hide_border=false" alt="GitHub Streak" />
-
 </div>
-<br><br>
+<br>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
   <blockquote>
     <p><em>"The best programmers aren't those who know the most – they're the ones who never give up."</em></p>
