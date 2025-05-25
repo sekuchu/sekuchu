@@ -9,7 +9,7 @@
 </div>
 <br>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sekuchu&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br>
   <blockquote>
