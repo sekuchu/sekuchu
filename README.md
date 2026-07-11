@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Branko and I'm a Software Engineer, from Serbia</h2>
+<h2 align="left"></h2>
 
 <br>
 <div align="center">
