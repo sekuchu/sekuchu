@@ -27,7 +27,7 @@ My interests sit at the intersection of **applied computer science, systems engi
 
 ## Technologies
 
-### `01` — Languages
+### `01` Languages
 
 <p>
   <img src="https://img.shields.io/badge/C-111827?style=flat-square&logo=c&logoColor=A8B9CC" alt="C" />
@@ -41,7 +41,7 @@ My interests sit at the intersection of **applied computer science, systems engi
   <img src="https://img.shields.io/badge/Bash-111827?style=flat-square&logo=gnubash&logoColor=4EAA25" alt="Bash" />
 </p>
 
-### `02` — Systems & Embedded Engineering
+### `02` Systems & Embedded Engineering
 
 <p>
   <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
@@ -53,7 +53,7 @@ My interests sit at the intersection of **applied computer science, systems engi
   <img src="https://img.shields.io/badge/CMake-111827?style=flat-square&logo=cmake&logoColor=064F8C" alt="CMake" />
 </p>
 
-### `03` — Development Tools
+### `03` Development Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
