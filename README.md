@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:172554,100:0891B2&height=220&section=header&text=SEKUCHU&fontSize=62&fontColor=FFFFFF&fontAlignY=36&desc=APPLIED%20COMPUTER%20SCIENCE%20%7C%20SYSTEMS%20ENGINEERING&descSize=14&descAlignY=59"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:172554,100:0891B2&height=220&section=header&text=BRANKO SEKULOVIC&fontSize=62&fontColor=FFFFFF&fontAlignY=36&desc=APPLIED%20COMPUTER%20SCIENCE%20%7C%20SYSTEMS%20ENGINEERING&descSize=14&descAlignY=59"
     width="100%"
     alt="Branko Sekulovic | Applied Computer Science and Systems Engineering"
   />
