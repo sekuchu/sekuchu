@@ -12,7 +12,7 @@
 
 <table>
 <tr>
-<td width="58%" valign="center">
+<td width="58%" valign="top">
 
 ### `OVERVIEW`
 
@@ -21,9 +21,10 @@ I'm a software developer focused on understanding how computing systems work, fr
 I learn by building practical projects, investigating how things behave, and debugging problems until I understand their underlying causes.
 
 **Build. Investigate. Understand. Improve.**
+<br>
 
 </td>
-<td width="42%" valign="center">
+<td width="42%" valign="top">
 
 ### `TECHNICAL FOCUS`
 
