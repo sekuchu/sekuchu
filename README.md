@@ -2,41 +2,43 @@
 
 <img src="./assets/hero.svg" width="100%" alt="Pixel-art nightscape with Branko Sekulovic, Applied Computer Science and Systems Engineering" />
 
-<br />
-
-<a href="https://github.com/sekuchu"><img src="https://img.shields.io/badge/OPEN_PROFILE-07111E?style=for-the-badge&logo=github&logoColor=7DD3FC" alt="Open GitHub profile" /></a>
-<a href="https://github.com/sekuchu?tab=repositories"><img src="https://img.shields.io/badge/PROJECT_ARCHIVE-07111E?style=for-the-badge&logo=github&logoColor=56D6A2" alt="Browse projects" /></a>
-<a href="https://ocistimo-novi-sad.github.io/"><img src="https://img.shields.io/badge/COMMUNITY_BUILD-07111E?style=for-the-badge&logo=githubpages&logoColor=F2B766" alt="Ocistimo Novi Sad community project" /></a>
+<p>
+  <a href="https://github.com/sekuchu"><img src="https://img.shields.io/badge/GITHUB-PROFILE-07111E?style=for-the-badge&logo=github&logoColor=7DD3FC" alt="GitHub profile" /></a>
+  <a href="https://github.com/sekuchu?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-REPOSITORIES-07111E?style=for-the-badge&logo=github&logoColor=56D6A2" alt="Project repositories" /></a>
+  <a href="https://ocistimo-novi-sad.github.io/"><img src="https://img.shields.io/badge/COMMUNITY-OCISTIMO_NOVI_SAD-07111E?style=for-the-badge&logo=githubpages&logoColor=F2B766" alt="Ocistimo Novi Sad community project" /></a>
+</p>
 
 </div>
 
 <table>
 <tr>
-<td width="56%" valign="top">
+<td width="58%" valign="top">
 
-### `PLAYER PROFILE`
+### `OVERVIEW`
 
-I'm a software developer interested in what happens beneath the surface: low-level programming, computer architecture, operating systems, embedded devices, and the relationship between hardware and software.
+I'm a software developer focused on understanding how computing systems work, from low-level programming and computer architecture to operating systems, embedded devices, and the interaction between hardware and software.
 
-**Build it. Break it. Debug it. Understand it.**
+I learn by building practical projects, investigating how things behave, and debugging problems until I understand their underlying causes.
+
+**Build. Investigate. Understand. Improve.**
 
 </td>
-<td width="44%" valign="top">
+<td width="42%" valign="top">
 
-### `ACTIVE QUESTS`
+### `TECHNICAL FOCUS`
 
-<a href="https://github.com/sekuchu?tab=repositories"><img src="https://img.shields.io/badge/01-LOW--LEVEL-10233D?style=flat-square&labelColor=07111E" alt="Low-level programming" /></a>
-<a href="https://github.com/sekuchu?tab=repositories"><img src="https://img.shields.io/badge/02-OPERATING_SYSTEMS-10233D?style=flat-square&labelColor=07111E" alt="Operating systems" /></a>
-<a href="https://github.com/sekuchu?tab=repositories"><img src="https://img.shields.io/badge/03-EMBEDDED-10233D?style=flat-square&labelColor=07111E" alt="Embedded systems" /></a>
-<a href="https://github.com/sekuchu?tab=repositories"><img src="https://img.shields.io/badge/04-ELECTRONICS-10233D?style=flat-square&labelColor=07111E" alt="Electronics" /></a>
+- **Low-level programming** · C, C++, assembly
+- **Operating systems** · Linux, Windows, shells
+- **Embedded engineering** · ESP32, firmware
+- **Electronics** · circuits, components, hardware
 
 </td>
 </tr>
 </table>
 
-<img src="./assets/quest-board.svg" width="100%" alt="Pixel-style interest map: low-level programming, operating systems, embedded engineering, and electronics" />
+<img src="./assets/focus-areas.svg" width="100%" alt="Pixel-art technical focus areas: low-level programming, operating systems, embedded engineering, and electronics" />
 
-## `LOADOUT` <sub>tools in the inventory</sub>
+## `TECHNOLOGY STACK` <sub>languages, platforms & tools</sub>
 
 <div align="center">
 
@@ -44,42 +46,41 @@ I'm a software developer interested in what happens beneath the surface: low-lev
 
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,ts,js,powershell,bash&theme=dark" alt="C, C++, C sharp, Python, TypeScript, JavaScript, PowerShell and Bash" />
 
-**SYSTEMS & WORKFLOW**
+**SYSTEMS & DEVELOPMENT TOOLS**
 
 <img src="https://skillicons.dev/icons?i=linux,windows,arduino,cmake,git,github,neovim,vscode,dotnet,nodejs&theme=dark" alt="Linux, Windows, Arduino, CMake, Git, GitHub, Neovim, VS Code, .NET and Node.js" />
 
 </div>
 
-## `SIGNAL FEED` <sub>contribution map</sub>
+---
+
+## `CONTRIBUTIONS` <sub>GitHub activity</sub>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sekuchu/sekuchu/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution map. If it has not appeared yet, run the contribution workflow in the Actions tab." />
+<img src="https://raw.githubusercontent.com/sekuchu/sekuchu/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution graph. Run the Generate contribution animation workflow if the graph is not available yet." />
 
-<sub>The contribution animation is generated automatically by this repository's GitHub Actions workflow.</sub>
-
-<a href="https://github.com/sekuchu/sekuchu/actions"><img src="https://img.shields.io/badge/WORKFLOW-OPEN_ACTIONS-10233D?style=flat-square&logo=githubactions&logoColor=7DD3FC" alt="Open GitHub Actions" /></a>
-<a href="https://github.com/sekuchu?tab=overview"><img src="https://img.shields.io/badge/PROFILE-EXPLORE_ACTIVITY-10233D?style=flat-square&logo=github&logoColor=56D6A2" alt="Explore GitHub activity" /></a>
+<a href="https://github.com/sekuchu/sekuchu/actions"><img src="https://img.shields.io/badge/CONTRIBUTION_GRAPH-OPEN_WORKFLOW-10233D?style=flat-square&logo=githubactions&logoColor=7DD3FC" alt="Open contribution graph workflow" /></a>
 
 </div>
 
 <table>
 <tr>
-<td width="70%" valign="center">
+<td width="72%" valign="center">
 
-### `DESIGN PHILOSOPHY`
+### `ENGINEERING APPROACH`
 
 **Understand the system. Build the solution.**
 
 </td>
-<td width="30%" align="right" valign="center">
+<td width="28%" align="right" valign="center">
 
-<img src="https://img.shields.io/badge/STATUS-ITERATING-10233D?style=for-the-badge&labelColor=07111E" alt="Status: iterating" />
+<img src="https://img.shields.io/badge/APPROACH-CONTINUOUS_IMPROVEMENT-10233D?style=for-the-badge&labelColor=07111E" alt="Continuous improvement" />
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<sub>BRANKO SEKULOVIC · BUILT WITH CURIOSITY, DEBUGGED WITH PATIENCE</sub>
+<sub>BRANKO SEKULOVIC · SOFTWARE · SYSTEMS · HARDWARE</sub>
 </div>
