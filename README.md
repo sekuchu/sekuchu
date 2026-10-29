@@ -12,7 +12,7 @@
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="58%" valign="center">
 
 ### `OVERVIEW`
 
