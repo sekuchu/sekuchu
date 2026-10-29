@@ -20,9 +20,6 @@ I'm a software developer focused on understanding how computing systems work, fr
 
 I learn by building practical projects, investigating how things behave, and debugging problems until I understand their underlying causes.
 
-**Build. Investigate. Understand. Improve.**
-<br>
-
 </td>
 <td width="42%" valign="top">
 
@@ -30,8 +27,8 @@ I learn by building practical projects, investigating how things behave, and deb
 
 - **Low-level programming** · C, C++, assembly
 - **Operating systems** · Linux, Windows, shells
-- **Embedded engineering** · ESP32, firmware
-- **Electronics** · circuits, components, hardware
+- **Embedded engineering** · MCU Families, JTAG
+- **Electronics** · orCAD, Altium, TPD
 
 </td>
 </tr>
@@ -39,7 +36,7 @@ I learn by building practical projects, investigating how things behave, and deb
 
 <img src="./assets/focus-areas.svg" width="100%" alt="Pixel-art technical focus areas: low-level programming, operating systems, embedded engineering, and electronics" />
 
-## `TECHNOLOGY STACK` <sub>languages, platforms & tools</sub>
+## `TOOLS`
 
 <div align="center">
 
@@ -55,7 +52,7 @@ I learn by building practical projects, investigating how things behave, and deb
 
 ---
 
-## `CONTRIBUTIONS` <sub>GitHub activity</sub>
+## `CONTRIBUTIONS`
 
 <div align="center">
 
