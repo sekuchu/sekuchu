@@ -4,62 +4,39 @@
 
 <br />
 
-<a href="https://github.com/sekuchu"><img src="https://img.shields.io/badge/OPEN_PROFILE-0B1220?style=for-the-badge&logo=github&logoColor=7DD3FC" alt="GitHub profile" /></a>
-<a href="https://github.com/sekuchu?tab=repositories"><img src="https://img.shields.io/badge/PROJECT_ARCHIVE-0B1220?style=for-the-badge&logo=github&logoColor=56D6A2" alt="Projects" /></a>
+<a href="https://github.com/sekuchu"><img src="https://img.shields.io/badge/OPEN_PROFILE-07111E?style=for-the-badge&logo=github&logoColor=7DD3FC" alt="Open GitHub profile" /></a>
+<a href="https://github.com/sekuchu?tab=repositories"><img src="https://img.shields.io/badge/PROJECT_ARCHIVE-07111E?style=for-the-badge&logo=github&logoColor=56D6A2" alt="Browse projects" /></a>
+<a href="https://ocistimo-novi-sad.github.io/"><img src="https://img.shields.io/badge/COMMUNITY_BUILD-07111E?style=for-the-badge&logo=githubpages&logoColor=F2B766" alt="Ocistimo Novi Sad community project" /></a>
 
 </div>
 
 <table>
 <tr>
-<td width="54%" valign="top">
+<td width="56%" valign="top">
 
 ### `PLAYER PROFILE`
 
-Software developer interested in how things work beneath the surface: low-level programming, computer architecture, operating systems, embedded devices, and the relationship between hardware and software.
+I'm a software developer interested in what happens beneath the surface: low-level programming, computer architecture, operating systems, embedded devices, and the relationship between hardware and software.
 
-I learn by building, breaking, debugging, and trying again.
-
-</td>
-<td width="46%" valign="top">
-
-### `CURRENT QUESTS`
-
-<img src="https://img.shields.io/badge/01-LOW--LEVEL_PROGRAMMING-10233D?style=flat-square&labelColor=07111E" />  
-<img src="https://img.shields.io/badge/02-OPERATING_SYSTEMS-10233D?style=flat-square&labelColor=07111E" />  
-<img src="https://img.shields.io/badge/03-EMBEDDED_ELECTRONICS-10233D?style=flat-square&labelColor=07111E" />  
-<img src="https://img.shields.io/badge/04-HARDWARE%20%2F%20SOFTWARE-10233D?style=flat-square&labelColor=07111E" />
+**Build it. Break it. Debug it. Understand it.**
 
 </td>
-</tr>
-</table>
+<td width="44%" valign="top">
 
-## `LOADOUT`  <sub>— tools in the inventory</sub>
+### `ACTIVE QUESTS`
 
-<table>
-<tr>
-<td align="center" width="33%" valign="top">
-<img src="https://img.icons8.com/color/96/processor.png" width="48" alt="Processor icon" />
-<br /><strong>LOW-LEVEL</strong>
-<br /><sub>C · C++ · Assembly</sub>
-<br /><br />
-<img src="https://img.shields.io/badge/COMPUTER_ARCHITECTURE-142B49?style=flat-square" />
-</td>
-<td align="center" width="33%" valign="top">
-<img src="https://img.icons8.com/color/96/linux--v1.png" width="48" alt="Linux icon" />
-<br /><strong>SYSTEMS</strong>
-<br /><sub>Linux · Windows · WSL</sub>
-<br /><br />
-<img src="https://img.shields.io/badge/SHELLS_%26_TOOLS-142B49?style=flat-square" />
-</td>
-<td align="center" width="33%" valign="top">
-<img src="https://img.icons8.com/color/96/electronics.png" width="48" alt="Electronics icon" />
-<br /><strong>EMBEDDED</strong>
-<br /><sub>ESP32 · Arduino · PlatformIO</sub>
-<br /><br />
-<img src="https://img.shields.io/badge/FIRMWARE_%26_CIRCUITS-142B49?style=flat-square" />
+<a href="https://github.com/sekuchu?tab=repositories"><img src="https://img.shields.io/badge/01-LOW--LEVEL-10233D?style=flat-square&labelColor=07111E" alt="Low-level programming" /></a>
+<a href="https://github.com/sekuchu?tab=repositories"><img src="https://img.shields.io/badge/02-OPERATING_SYSTEMS-10233D?style=flat-square&labelColor=07111E" alt="Operating systems" /></a>
+<a href="https://github.com/sekuchu?tab=repositories"><img src="https://img.shields.io/badge/03-EMBEDDED-10233D?style=flat-square&labelColor=07111E" alt="Embedded systems" /></a>
+<a href="https://github.com/sekuchu?tab=repositories"><img src="https://img.shields.io/badge/04-ELECTRONICS-10233D?style=flat-square&labelColor=07111E" alt="Electronics" /></a>
+
 </td>
 </tr>
 </table>
+
+<img src="./assets/quest-board.svg" width="100%" alt="Pixel-style interest map: low-level programming, operating systems, embedded engineering, and electronics" />
+
+## `LOADOUT` <sub>tools in the inventory</sub>
 
 <div align="center">
 
@@ -73,29 +50,29 @@ I learn by building, breaking, debugging, and trying again.
 
 </div>
 
-## `SIGNAL FEED`  <sub>— live from GitHub</sub>
+## `SIGNAL FEED` <sub>contribution map</sub>
 
 <div align="center">
 
-<a href="https://github.com/sekuchu?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api?username=sekuchu&show_icons=true&hide_border=true&bg_color=07111E&title_color=7DD3FC&text_color=C7DDF7&icon_color=56D6A2&rank_icon=github" alt="GitHub statistics" /></a>
-<a href="https://github.com/sekuchu?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekuchu&layout=compact&hide_border=true&bg_color=07111E&title_color=7DD3FC&text_color=C7DDF7" alt="Most-used languages" /></a>
+<img src="https://raw.githubusercontent.com/sekuchu/sekuchu/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution map. If it has not appeared yet, run the contribution workflow in the Actions tab." />
 
-<br />
+<sub>The contribution animation is generated automatically by this repository's GitHub Actions workflow.</sub>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=sekuchu&bg_color=07111E&color=C7DDF7&line=38BDF8&point=56D6A2&area=true&area_color=10233D&hide_border=true&custom_title=COMMIT%20TIMELINE" alt="GitHub contribution graph" />
+<a href="https://github.com/sekuchu/sekuchu/actions"><img src="https://img.shields.io/badge/WORKFLOW-OPEN_ACTIONS-10233D?style=flat-square&logo=githubactions&logoColor=7DD3FC" alt="Open GitHub Actions" /></a>
+<a href="https://github.com/sekuchu?tab=overview"><img src="https://img.shields.io/badge/PROFILE-EXPLORE_ACTIVITY-10233D?style=flat-square&logo=github&logoColor=56D6A2" alt="Explore GitHub activity" /></a>
 
 </div>
 
 <table>
 <tr>
-<td width="65%" valign="center">
+<td width="70%" valign="center">
 
 ### `DESIGN PHILOSOPHY`
 
 **Understand the system. Build the solution.**
 
 </td>
-<td width="35%" align="right" valign="center">
+<td width="30%" align="right" valign="center">
 
 <img src="https://img.shields.io/badge/STATUS-ITERATING-10233D?style=for-the-badge&labelColor=07111E" alt="Status: iterating" />
 
