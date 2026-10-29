@@ -23,7 +23,7 @@ I learn by building practical projects, investigating how things behave, and deb
 **Build. Investigate. Understand. Improve.**
 
 </td>
-<td width="42%" valign="top">
+<td width="42%" valign="center">
 
 ### `TECHNICAL FOCUS`
 
