@@ -1,51 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
-<defs>
- <style>
- .k{font:12px 'DejaVu Sans Mono',monospace;letter-spacing:1.7px;fill:#9aa889}
- .h{font:600 19px 'Inter',Arial,sans-serif;fill:#e6edf3}
- .b{font:14px 'Inter',Arial,sans-serif;fill:#9da7b1}
- .line{stroke:#42504d;stroke-width:1;fill:none}
- .acc{stroke:#c77d55;stroke-width:1.6;fill:none;stroke-linecap:round;stroke-linejoin:round}
- .sage{stroke:#9aa889;stroke-width:1.6;fill:none;stroke-linecap:round;stroke-linejoin:round}
- </style>
-</defs>
-<rect x="1" y="1" width="1198" height="298" rx="6" fill="#0d1117" stroke="#30363d"/>
-<rect x="22" y="20" width="274" height="260" rx="4" fill="#111820" stroke="#30363d"/>
-<text x="40" y="45" class="k">01 / AREA</text>
-<rect x="40" y="63" width="60" height="54" rx="3" fill="#0d1117" stroke="#34443f"/>
-<rect x="59" y="79" width="22" height="22" rx="2" class="sage"/>
-<path d="M63 73v6 M63 101v6 M53 83h6 M81 83h6" class="acc"/>
-<path d="M70 73v6 M70 101v6 M53 90h6 M81 90h6" class="acc"/>
-<path d="M77 73v6 M77 101v6 M53 97h6 M81 97h6" class="acc"/>
-<text x="40" y="148" class="h">LOW-LEVEL PROGRAMMING</text>
-<text x="40" y="183" class="b">Memory, architecture,</text>
-<text x="40" y="204" class="b">C/C++, assembly.</text>
-<line x1="40" y1="244" x2="278" y2="244" class="line"/><line x1="40" y1="244" x2="92" y2="244" class="acc"/>
-<rect x="318" y="20" width="274" height="260" rx="4" fill="#111820" stroke="#30363d"/>
-<text x="336" y="45" class="k">02 / AREA</text>
-<rect x="336" y="63" width="60" height="54" rx="3" fill="#0d1117" stroke="#34443f"/>
-<path d="M349 83l17-9 17 9-17 9z M349 91l17 9 17-9 M349 99l17 9 17-9" class="sage"/>
-<text x="336" y="148" class="h">OPERATING SYSTEMS</text>
-<text x="336" y="183" class="b">Linux, Windows, shells,</text>
-<text x="336" y="204" class="b">system internals.</text>
-<line x1="336" y1="244" x2="574" y2="244" class="line"/><line x1="336" y1="244" x2="396" y2="244" class="acc"/>
-<rect x="614" y="20" width="274" height="260" rx="4" fill="#111820" stroke="#30363d"/>
-<text x="632" y="45" class="k">03 / AREA</text>
-<rect x="632" y="63" width="60" height="54" rx="3" fill="#0d1117" stroke="#34443f"/>
-<rect x="645" y="76" width="34" height="28" rx="2" class="sage"/><rect x="655" y="85" width="14" height="10" class="acc"/>
-<path d="M651 70v6 M651 104v6" class="sage"/>
-<path d="M662 70v6 M662 104v6" class="sage"/>
-<path d="M673 70v6 M673 104v6" class="sage"/>
-<text x="632" y="148" class="h">EMBEDDED SYSTEMS</text>
-<text x="632" y="183" class="b">Microcontrollers, ESP32,</text>
-<text x="632" y="204" class="b">firmware and interfaces.</text>
-<line x1="632" y1="244" x2="870" y2="244" class="line"/><line x1="632" y1="244" x2="700" y2="244" class="acc"/>
-<rect x="910" y="20" width="274" height="260" rx="4" fill="#111820" stroke="#30363d"/>
-<text x="928" y="45" class="k">04 / AREA</text>
-<rect x="928" y="63" width="60" height="54" rx="3" fill="#0d1117" stroke="#34443f"/>
-<path d="M941 77h12v12h12v12h10 M941 103h8v-7h12v-8h14" class="sage"/><circle cx="941" cy="77" r="3" fill="#c77d55"/><circle cx="975" cy="101" r="3" fill="#c77d55"/>
-<text x="928" y="148" class="h">ELECTRONICS</text>
-<text x="928" y="183" class="b">Digital circuits, components,</text>
-<text x="928" y="204" class="b">hands-on prototyping.</text>
-<line x1="928" y1="244" x2="1166" y2="244" class="line"/><line x1="928" y1="244" x2="1004" y2="244" class="acc"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Technical focus areas</title>
+  <desc id="desc">Four editorial cards covering low-level systems and architecture, operating systems, embedded systems, and electronics.</desc>
+  <defs>
+    <style>
+      .card{fill:#0d1117;stroke:#30363d;stroke-width:1.2}
+      .meta{font:12px 'DejaVu Sans Mono',monospace;letter-spacing:2px;fill:#9da7b3}
+      .head{font:600 17px 'DejaVu Sans',Arial,sans-serif;letter-spacing:.35px;fill:#e6edf3}
+      .copy{font:14px 'DejaVu Sans',Arial,sans-serif;fill:#9da7b3}
+      .line{fill:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round}
+    </style>
+  </defs>
+  <rect width="1200" height="300" rx="7" fill="#0d1117"/>
+  <!-- 01: low-level -->
+  <g transform="translate(21 20)">
+    <rect class="card" width="275" height="260" rx="4"/>
+    <text class="meta" x="18" y="25">01 / AREA</text>
+    <rect x="18" y="43" width="60" height="56" rx="3" fill="#0f151d" stroke="#30363d"/>
+    <g class="line" stroke="#c77d55">
+      <rect x="37" y="58" width="22" height="24" rx="2"/>
+      <path d="M42 52v6 M49 52v6 M56 52v6 M42 82v6 M49 82v6 M56 82v6 M31 63h6 M31 70h6 M31 77h6 M59 63h6 M59 70h6 M59 77h6"/>
+    </g>
+    <text class="head" x="18" y="128">LOW-LEVEL</text>
+    <text class="copy" x="18" y="161">Memory, architecture,</text>
+    <text class="copy" x="18" y="181">C/C++, assembly.</text>
+    <path d="M18 224H257" stroke="#30363d" stroke-width="2"/>
+    <path d="M18 224H70" stroke="#c77d55" stroke-width="2"/>
+  </g>
+  <!-- 02: operating systems -->
+  <g transform="translate(317 20)">
+    <rect class="card" width="275" height="260" rx="4"/>
+    <text class="meta" x="18" y="25">02 / AREA</text>
+    <rect x="18" y="43" width="60" height="56" rx="3" fill="#0f151d" stroke="#30363d"/>
+    <g class="line" stroke="#9aa889"><path d="M33 63 48 54 63 63 48 72Z M33 70 48 79 63 70 M33 78 48 87 63 78"/></g>
+    <text class="head" x="18" y="128">OPERATING SYSTEMS</text>
+    <text class="copy" x="18" y="161">Linux, Windows, shells,</text>
+    <text class="copy" x="18" y="181">system internals.</text>
+    <path d="M18 224H257" stroke="#30363d" stroke-width="2"/>
+    <path d="M18 224H80" stroke="#9aa889" stroke-width="2"/>
+  </g>
+  <!-- 03: embedded systems -->
+  <g transform="translate(613 20)">
+    <rect class="card" width="275" height="260" rx="4"/>
+    <text class="meta" x="18" y="25">03 / AREA</text>
+    <rect x="18" y="43" width="60" height="56" rx="3" fill="#0f151d" stroke="#30363d"/>
+    <g class="line" stroke="#9aa889"><rect x="32" y="56" width="31" height="28" rx="2"/><path d="M39 50v6 M48 50v6 M57 50v6 M39 84v6 M48 84v6 M57 84v6 M26 62h6 M26 71h6 M26 80h6 M63 62h6 M63 71h6 M63 80h6"/><rect x="41" y="64" width="13" height="12" rx="1" stroke="#c77d55"/></g>
+    <text class="head" x="18" y="128">EMBEDDED SYSTEMS</text>
+    <text class="copy" x="18" y="161">Microcontrollers, ESP32,</text>
+    <text class="copy" x="18" y="181">firmware and interfaces.</text>
+    <path d="M18 224H257" stroke="#30363d" stroke-width="2"/>
+    <path d="M18 224H87" stroke="#c77d55" stroke-width="2"/>
+  </g>
+  <!-- 04: electronics -->
+  <g transform="translate(909 20)">
+    <rect class="card" width="275" height="260" rx="4"/>
+    <text class="meta" x="18" y="25">04 / AREA</text>
+    <rect x="18" y="43" width="60" height="56" rx="3" fill="#0f151d" stroke="#30363d"/>
+    <g class="line" stroke="#9aa889"><path d="M27 67h10v-9h16v17h12 M27 84h13v-7h13v-7h12"/><circle cx="27" cy="67" r="2" fill="#c77d55"/><circle cx="65" cy="75" r="2" fill="#c77d55"/></g>
+    <text class="head" x="18" y="128">ELECTRONICS</text>
+    <text class="copy" x="18" y="161">Digital circuits, components,</text>
+    <text class="copy" x="18" y="181">hands-on prototyping.</text>
+    <path d="M18 224H257" stroke="#30363d" stroke-width="2"/>
+    <path d="M18 224H95" stroke="#9a7fd1" stroke-width="2"/>
+  </g>
 </svg>
