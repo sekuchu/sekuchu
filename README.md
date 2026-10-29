@@ -20,6 +20,12 @@ I'm a software developer focused on understanding how computing systems work, fr
 
 I learn by building practical projects, investigating how things behave, and debugging problems until I understand their underlying causes.
 
+‎‎
+‎‎‎
+‎
+‎
+
+‎‎‎‎
 </td>
 <td width="42%" valign="top">
 
