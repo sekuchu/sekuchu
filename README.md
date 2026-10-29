@@ -25,18 +25,20 @@ I prefer practical learning: building, inspecting, debugging, and understanding 
 
 ### CURRENT INTERESTS
 
-**Systems programming**  
-Memory, architecture, C/C++ and assembly.
+**Electronics engineering**
+Circuit design, PCB design, digital logic and hardware interfaces.
 
-**Operating systems**  
-Linux, Windows and system internals.
+**Networking engineering**
+TCP/IP, network protocols, sockets and packet analysis.
 
-**Embedded engineering**  
-Microcontrollers, ESP32 and firmware.
+**Reverse engineering**
+Binary analysis, disassembly, debugging and executable formats.
 
-**Electronics**  
-Circuits, components and hardware interfaces.
+**Compiler development**
+Lexers, parsers, interpreters, compilers and LLVM.
 
+ㅤㅤ
+ㅤ
 </td>
 </tr>
 </table>
