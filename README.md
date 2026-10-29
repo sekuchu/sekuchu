@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Pixel-art nightscape with Branko Sekulovic, Applied Computer Science and Systems Engineering" />
+<img src="./assets/hero.gif" width="100%" alt="Animated editorial illustration of European city architecture at dusk, with Branko Sekulovic and his software and systems engineering focus." />
 
 <p>
-  <a href="https://github.com/sekuchu"><img src="https://img.shields.io/badge/GITHUB-PROFILE-07111E?style=for-the-badge&logo=github&logoColor=7DD3FC" alt="GitHub profile" /></a>
-  <a href="https://github.com/sekuchu?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-REPOSITORIES-07111E?style=for-the-badge&logo=github&logoColor=56D6A2" alt="Project repositories" /></a>
-  <a href="https://ocistimo-novi-sad.github.io/"><img src="https://img.shields.io/badge/COMMUNITY-OCISTIMO_NOVI_SAD-07111E?style=for-the-badge&logo=githubpages&logoColor=F2B766" alt="Ocistimo Novi Sad community project" /></a>
+  <a href="https://github.com/sekuchu"><img src="https://img.shields.io/badge/GitHub-Profile-0d1117?style=flat-square&logo=github&logoColor=e6edf3" alt="GitHub profile" /></a>
+  <a href="https://github.com/sekuchu?tab=repositories"><img src="https://img.shields.io/badge/Selected_Work-Explore-0d1117?style=flat-square&logo=github&logoColor=9aa889" alt="Explore repositories" /></a>
+  <a href="https://ocistimo-novi-sad.github.io/"><img src="https://img.shields.io/badge/Community_Project-Ocistimo_Novi_Sad-0d1117?style=flat-square&logo=githubpages&logoColor=c77d55" alt="Ocistimo Novi Sad community project" /></a>
 </p>
 
 </div>
@@ -14,60 +14,76 @@
 <tr>
 <td width="58%" valign="top">
 
-### `OVERVIEW`
+### OVERVIEW
 
-I'm a software developer focused on understanding how computing systems work, from low-level programming and computer architecture to operating systems, embedded devices, and the interaction between hardware and software.
+I’m a software developer interested in how computing systems work, from low-level programming and computer architecture to operating systems, embedded devices, and the relationship between hardware and software.
 
-I learn by building practical projects, investigating how things behave, and debugging problems until I understand their underlying causes.
+I prefer practical learning: building, inspecting, debugging, and understanding why a system behaves the way it does.
 
-‎‎
-‎‎‎
-‎
-‎
-
-‎‎‎‎
 </td>
 <td width="42%" valign="top">
 
-### `TECHNICAL FOCUS`
+### CURRENT INTERESTS
 
-- **Low-level programming** · C, C++, assembly
-- **Operating systems** · Linux, Windows, shells
-- **Embedded engineering** · MCU Families, JTAG
-- **Electronics** · orCAD, Altium, TPD
+**Systems programming**  
+Memory, architecture, C/C++ and assembly.
+
+**Operating systems**  
+Linux, Windows and system internals.
+
+**Embedded engineering**  
+Microcontrollers, ESP32 and firmware.
+
+**Electronics**  
+Circuits, components and hardware interfaces.
 
 </td>
 </tr>
 </table>
 
-<img src="./assets/focus-areas.svg" width="100%" alt="Pixel-art technical focus areas: low-level programming, operating systems, embedded engineering, and electronics" />
+<img src="./assets/focus-areas.svg" width="100%" alt="Four visual focus areas: low-level programming, operating systems, embedded systems, and electronics." />
 
-## `TOOLS`
+## TECHNOLOGY
 
 <div align="center">
 
-**LANGUAGES & RUNTIME**
-
+<p><sub>LANGUAGES</sub></p>
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,ts,js,powershell,bash&theme=dark" alt="C, C++, C sharp, Python, TypeScript, JavaScript, PowerShell and Bash" />
 
-**SYSTEMS & DEVELOPMENT TOOLS**
-
-<img src="https://skillicons.dev/icons?i=linux,windows,arduino,cmake,git,github,neovim,vscode,dotnet,nodejs&theme=dark" alt="Linux, Windows, Arduino, CMake, Git, GitHub, Neovim, VS Code, .NET and Node.js" />
+<p><sub>PLATFORMS & TOOLING</sub></p>
+<img src="https://skillicons.dev/icons?i=linux,windows,arduino,cmake,git,github,neovim,vscode,dotnet,nodejs&theme=dark" alt="Linux, Windows, Arduino, CMake, Git, GitHub, Neovim, Visual Studio Code, .NET and Node.js" />
 
 </div>
 
 ---
 
-## `CONTRIBUTIONS`
+## ACTIVITY
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sekuchu/sekuchu/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution graph. Run the Generate contribution animation workflow if the graph is not available yet." />
+<img src="https://raw.githubusercontent.com/sekuchu/sekuchu/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution graph generated from GitHub activity. The graph appears after the repository workflow runs successfully." />
 
-<a href="https://github.com/sekuchu/sekuchu/actions"><img src="https://img.shields.io/badge/CONTRIBUTION_GRAPH-OPEN_WORKFLOW-10233D?style=flat-square&logo=githubactions&logoColor=7DD3FC" alt="Open contribution graph workflow" /></a>
+<a href="https://github.com/sekuchu/sekuchu/actions"><img src="https://img.shields.io/badge/Contribution_Graph-Workflow-0d1117?style=flat-square&logo=githubactions&logoColor=9aa889" alt="Contribution graph workflow" /></a>
 
 </div>
 
+<table>
+<tr>
+<td width="70%" valign="center">
+
+### ENGINEERING APPROACH
+
+Understand the system. Build the solution. Improve it through evidence and iteration.
+
+</td>
+<td width="30%" align="right" valign="center">
+
+<img src="https://img.shields.io/badge/PROCESS-ITERATIVE-0d1117?style=for-the-badge&labelColor=161b22&color=9aa889" alt="Iterative engineering process" />
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-<sub>BRANKO SEKULOVIC · SOFTWARE · SYSTEMS · HARDWARE</sub>
+<sub>BRANKO SEKULOVIC · SOFTWARE / SYSTEMS / HARDWARE</sub>
 </div>
