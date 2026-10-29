@@ -64,23 +64,6 @@ I learn by building practical projects, investigating how things behave, and deb
 
 </div>
 
-<table>
-<tr>
-<td width="72%" valign="center">
-
-### `ENGINEERING APPROACH`
-
-**Understand the system. Build the solution.**
-
-</td>
-<td width="28%" align="right" valign="center">
-
-<img src="https://img.shields.io/badge/APPROACH-CONTINUOUS_IMPROVEMENT-10233D?style=for-the-badge&labelColor=07111E" alt="Continuous improvement" />
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 <sub>BRANKO SEKULOVIC · SOFTWARE · SYSTEMS · HARDWARE</sub>
 </div>
