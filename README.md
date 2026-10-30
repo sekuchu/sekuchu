@@ -69,22 +69,7 @@ Lexers, parsers, interpreters, compilers and LLVM.
 
 </div>
 
-<table>
-<tr>
-<td width="70%" valign="center">
-
-### ENGINEERING APPROACH
-
-Understand the system. Build the solution. Improve it through evidence and iteration.
-
-</td>
-<td width="30%" align="right" valign="center">
-
-<img src="https://img.shields.io/badge/PROCESS-ITERATIVE-0d1117?style=for-the-badge&labelColor=161b22&color=9aa889" alt="Iterative engineering process" />
-
-</td>
-</tr>
-</table>
+### I PRIDE MYSELF IN ALWAYS TAKING THE ENGINEERING APPROACH ( probably ).
 
 <div align="center">
 <sub>BRANKO SEKULOVIC · SOFTWARE / SYSTEMS / HARDWARE</sub>
