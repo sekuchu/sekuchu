@@ -43,7 +43,7 @@ Lexers, parsers, interpreters, compilers and LLVM.
 </tr>
 </table>
 
-<img src="./assets/focus-area.svg" width="100%" alt="Four visual focus areas: low-level programming, operating systems, embedded systems, and electronics." />
+<img src="./assets/focus-areas.svg" width="100%" alt="Four visual focus areas: low-level programming, operating systems, embedded systems, and electronics." />
 
 ## TECHNOLOGY
 
