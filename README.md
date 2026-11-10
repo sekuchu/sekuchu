@@ -45,10 +45,8 @@ Lexers, parsers, interpreters, compilers and LLVM.
 
 <img src="./assets/focus-areas-v2.svg" width="100%" alt="Four visual focus areas: low-level programming, operating systems, embedded systems, and electronics." />
 
-## TECHNOLOGY
-
 <div align="center">
-
+  
 <p><sub>LANGUAGES</sub></p>
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,ts,js,powershell,bash&theme=dark" alt="C, C++, C sharp, Python, TypeScript, JavaScript, PowerShell and Bash" />
 
@@ -56,10 +54,6 @@ Lexers, parsers, interpreters, compilers and LLVM.
 <img src="https://skillicons.dev/icons?i=linux,windows,arduino,cmake,git,github,neovim,vscode,dotnet,nodejs&theme=dark" alt="Linux, Windows, Arduino, CMake, Git, GitHub, Neovim, Visual Studio Code, .NET and Node.js" />
 
 </div>
-
----
-
-## ACTIVITY
 
 <div align="center">
 
