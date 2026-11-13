@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="275" viewBox="0 0 460 275" role="img" aria-labelledby="title desc">
+  <title id="title">00 / Current Interests</title>
+  <desc id="desc">Active focus areas: electronics engineering, networking engineering, reverse engineering, and compiler development.</desc>
+  <defs>
+    <style>
+      .card{fill:#0d1117;stroke:#30363d;stroke-width:1.2}
+      .meta{font:11.5px 'DejaVu Sans Mono',monospace;letter-spacing:2px;fill:#9da7b3}
+      .meta-dim{font:10.5px 'DejaVu Sans Mono',monospace;letter-spacing:1.5px;fill:#6e7681}
+      .item-head{font:600 13.5px 'DejaVu Sans',Arial,sans-serif;letter-spacing:.2px;fill:#e6edf3}
+      .item-copy{font:12.5px 'DejaVu Sans',Arial,sans-serif;fill:#9da7b3}
+    </style>
+  </defs>
+  <rect width="460" height="275" rx="7" fill="#0d1117"/>
+  <g transform="translate(12 12)">
+    <rect class="card" width="436" height="251" rx="4"/>
+    <text class="meta" x="22" y="28">00 / CURRENT INTERESTS</text>
+    <text class="meta-dim" x="414" y="28" text-anchor="end">ACTIVE FOCUS</text>
+    <path d="M22 40H414" stroke="#21262d" stroke-width="1"/>
+
+    <rect x="22" y="57" width="6" height="6" rx="1" fill="#9a7fd1"/>
+    <text class="item-head" x="36" y="65">Electronics engineering</text>
+    <text class="item-copy" x="36" y="81">Circuit design, PCB layout, digital logic, hardware interfaces.</text>
+
+    <rect x="22" y="95" width="6" height="6" rx="1" fill="#9aa889"/>
+    <text class="item-head" x="36" y="103">Networking engineering</text>
+    <text class="item-copy" x="36" y="119">TCP/IP, network protocols, sockets, packet analysis.</text>
+
+    <rect x="22" y="133" width="6" height="6" rx="1" fill="#c77d55"/>
+    <text class="item-head" x="36" y="141">Reverse engineering</text>
+    <text class="item-copy" x="36" y="157">Binary analysis, disassembly, debugging, executable formats.</text>
+
+    <rect x="22" y="171" width="6" height="6" rx="1" fill="#e6edf3"/>
+    <text class="item-head" x="36" y="179">Compiler development</text>
+    <text class="item-copy" x="36" y="195">Lexers, parsers, interpreters, compilers, LLVM.</text>
+
+    <path d="M22 224H414" stroke="#30363d" stroke-width="2"/>
+    <path d="M22 224H145" stroke="#9aa889" stroke-width="2"/>
+  </g>
+</svg>

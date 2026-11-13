@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="275" viewBox="0 0 460 275" role="img" aria-labelledby="title desc">
+  <title id="title">00 / Overview — Engineering Approach</title>
+  <desc id="desc">Software developer focused on low-level programming, computer architecture, operating systems, embedded devices, and hardware-software interaction.</desc>
+  <defs>
+    <style>
+      .card{fill:#0d1117;stroke:#30363d;stroke-width:1.2}
+      .meta{font:11.5px 'DejaVu Sans Mono',monospace;letter-spacing:2px;fill:#9da7b3}
+      .meta-dim{font:10.5px 'DejaVu Sans Mono',monospace;letter-spacing:1.5px;fill:#6e7681}
+      .head{font:600 16px 'DejaVu Sans',Arial,sans-serif;letter-spacing:.4px;fill:#e6edf3}
+      .copy{font:13.5px 'DejaVu Sans',Arial,sans-serif;fill:#9da7b3}
+    </style>
+  </defs>
+  <rect width="460" height="275" rx="7" fill="#0d1117"/>
+  <g transform="translate(12 12)">
+    <rect class="card" width="436" height="251" rx="4"/>
+    <text class="meta" x="22" y="28">00 / OVERVIEW</text>
+    <text class="meta-dim" x="414" y="28" text-anchor="end">SYSTEMS · HARDWARE</text>
+    <path d="M22 40H414" stroke="#21262d" stroke-width="1"/>
+    <text class="head" x="22" y="68">ENGINEERING APPROACH</text>
+    <text class="copy" x="22" y="96">I’m a software developer focused on how computing</text>
+    <text class="copy" x="22" y="116">systems actually work — from low-level code and</text>
+    <text class="copy" x="22" y="136">architecture to OS internals and embedded hardware.</text>
+    <text class="copy" x="22" y="166">I learn by building, inspecting, debugging, and</text>
+    <text class="copy" x="22" y="186">tracing why a system behaves the way it does.</text>
+    <path d="M22 224H414" stroke="#30363d" stroke-width="2"/>
+    <path d="M22 224H110" stroke="#c77d55" stroke-width="2"/>
+    <path d="M114 224H175" stroke="#9aa889" stroke-width="2"/>
+    <path d="M179 224H220" stroke="#9a7fd1" stroke-width="2"/>
+  </g>
+</svg>
