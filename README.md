@@ -24,11 +24,10 @@
 
 <div align="center">
   
-<p><sub>LANGUAGES</sub></p>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,ts,js,powershell,bash&theme=dark" alt="C, C++, C sharp, Python, TypeScript, JavaScript, PowerShell and Bash" />
-
-<p><sub>PLATFORMS & TOOLING</sub></p>
-<img src="https://skillicons.dev/icons?i=linux,windows,arduino,cmake,git,github,neovim,vscode,dotnet,nodejs&theme=dark" alt="Linux, Windows, Arduino, CMake, Git, GitHub, Neovim, Visual Studio Code, .NET and Node.js" />
+<p align="center">
+  <img src="./assets/languages.svg" width="404" alt="05 / Languages - C, C++, C#, Python, TypeScript, JavaScript, PowerShell, Bash" />
+  <img src="./assets/tooling.svg" width="404" alt="06 / Platforms and Tooling - Linux, Windows, Arduino, CMake, Git, GitHub, Neovim, VS Code, .NET, Node.js" />
+</p>
 
 </div>
 
