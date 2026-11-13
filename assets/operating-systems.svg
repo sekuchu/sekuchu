@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="305" height="290" viewBox="0 0 305 290" role="img" aria-labelledby="title desc">
+  <title id="title">02 / AREA — Operating Systems</title>
+  <desc id="desc">Operating systems card covering Linux, Windows, shells, and system internals.</desc>
+  <defs>
+    <style>
+      .card{fill:#0d1117;stroke:#30363d;stroke-width:1.2}
+      .meta{font:12px 'DejaVu Sans Mono',monospace;letter-spacing:2px;fill:#9da7b3}
+      .head{font:600 17px 'DejaVu Sans',Arial,sans-serif;letter-spacing:.35px;fill:#e6edf3}
+      .copy{font:14px 'DejaVu Sans',Arial,sans-serif;fill:#9da7b3}
+      .line{fill:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round}
+    </style>
+  </defs>
+  <rect width="305" height="290" rx="7" fill="#0d1117"/>
+  <g transform="translate(15 15)">
+    <rect class="card" width="275" height="260" rx="4"/>
+    <text class="meta" x="18" y="25">02 / AREA</text>
+    <rect x="18" y="43" width="60" height="56" rx="3" fill="#0f151d" stroke="#30363d"/>
+    <g class="line" stroke="#9aa889">
+      <path d="M33 63 48 54 63 63 48 72Z M33 70 48 79 63 70 M33 78 48 87 63 78"/>
+    </g>
+    <text class="head" x="18" y="128">OPERATING SYSTEMS</text>
+    <text class="copy" x="18" y="161">Linux, Windows, shells,</text>
+    <text class="copy" x="18" y="181">system internals.</text>
+    <path d="M18 224H257" stroke="#30363d" stroke-width="2"/>
+    <path d="M18 224H80" stroke="#9aa889" stroke-width="2"/>
+  </g>
+</svg>
