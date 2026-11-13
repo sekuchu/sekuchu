@@ -40,7 +40,7 @@
 
 </div>
 
-### I PRIDE MYSELF IN ALWAYS TAKING THE ENGINEERING APPROACH ( probably ).
+<p align="center"> I PRIDE MYSELF IN ALWAYS TAKING THE ENGINEERING APPROACH ( probably ). </p>
 
 <div align="center">
 <sub>BRANKO SEKULOVIC · SOFTWARE / SYSTEMS / HARDWARE</sub>
