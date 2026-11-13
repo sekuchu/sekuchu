@@ -10,38 +10,10 @@
 
 </div>
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
-### OVERVIEW
-
-I’m a software developer interested in how computing systems work, from low-level programming and computer architecture to operating systems, embedded devices, and the relationship between hardware and software.
-
-I prefer practical learning: building, inspecting, debugging, and understanding why a system behaves the way it does.
-
-</td>
-<td width="42%" valign="top">
-
-### CURRENT INTERESTS
-
-**Electronics engineering**
-Circuit design, PCB design, digital logic and hardware interfaces.
-
-**Networking engineering**
-TCP/IP, network protocols, sockets and packet analysis.
-
-**Reverse engineering**
-Binary analysis, disassembly, debugging and executable formats.
-
-**Compiler development**
-Lexers, parsers, interpreters, compilers and LLVM.
-
-ㅤㅤ
-ㅤ
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/overview.svg" width="404" alt="00 / Overview - Engineering Approach" />
+  <img src="./assets/interests.svg" width="404" alt="00 / Current Interests" />
+</p>
 
 <p align="center">
   <img src="./assets/low-level.svg" width="200" alt="01 / Area - Low-Level" />
