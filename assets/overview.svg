@@ -18,7 +18,7 @@
     <path d="M22 40H414" stroke="#21262d" stroke-width="1"/>
     <text class="head" x="22" y="68">ENGINEERING APPROACH</text>
     <text class="copy" x="22" y="96">I’m a software developer focused on how computing</text>
-    <text class="copy" x="22" y="116">systems actually work — from low-level code and</text>
+    <text class="copy" x="22" y="116">systems actually work from low-level code and</text>
     <text class="copy" x="22" y="136">architecture to OS internals and embedded hardware.</text>
     <text class="copy" x="22" y="166">I learn by building, inspecting, debugging, and</text>
     <text class="copy" x="22" y="186">tracing why a system behaves the way it does.</text>
