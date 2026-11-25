@@ -1,34 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="404" height="220" viewBox="0 0 404 220" role="img" aria-label="07 / Statistics">
   <rect x="0.5" y="0.5" width="403" height="219" rx="6" fill="#0d1117" stroke="#30363d"/>
 
-  <!-- Header -->
   <text x="18" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.5" fill="#9aa889">07 / STATISTICS</text>
   <text x="386" y="28" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" letter-spacing="1.2" fill="#6e7681">GITHUB · PUBLIC</text>
   <text x="18" y="56" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="0.5" fill="#e6edf3">ACTIVITY SNAPSHOT</text>
   <line x1="18" y1="70" x2="386" y2="70" stroke="#21262d"/>
   <line x1="202" y1="82" x2="202" y2="196" stroke="#21262d"/>
 
-  <!-- Row 1 left: Followers -->
   <circle cx="21" cy="91" r="2.5" fill="#c77d55"/>
   <text x="30" y="94" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" letter-spacing="1.2" fill="#6e7681">FOLLOWERS</text>
   <text x="30" y="124" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" fill="#e6edf3">elon musk and jensen huang</text>
 
-  <!-- Row 1 right: Following -->
   <circle cx="217" cy="91" r="2.5" fill="#9aa889"/>
   <text x="226" y="94" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" letter-spacing="1.2" fill="#6e7681">FOLLOWING</text>
   <text x="226" y="124" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" fill="#e6edf3">3</text>
 
-  <!-- Row 2 left: Public repos (replace -- with your count) -->
   <circle cx="21" cy="157" r="2.5" fill="#8b7fc7"/>
   <text x="30" y="160" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" letter-spacing="1.2" fill="#6e7681">PUBLIC REPOS</text>
   <text x="30" y="190" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" fill="#e6edf3">just enough</text>
-
-  <!-- Row 2 right: Total stars (replace -- with your count) -->
+  
   <circle cx="217" cy="157" r="2.5" fill="#c77d55"/>
   <text x="226" y="160" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" letter-spacing="1.2" fill="#6e7681">TOTAL STARS</text>
   <text x="226" y="190" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" fill="#e6edf3">a lot :)</text>
 
-  <!-- Bottom accent bar -->
   <rect x="18" y="206" width="368" height="2" fill="#21262d"/>
   <rect x="18" y="206" width="120" height="2" fill="#c77d55"/>
   <rect x="138" y="206" width="80" height="2" fill="#9aa889"/>
