@@ -33,8 +33,8 @@
 </div>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/sekuchu/sekuchu/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution graph generated from GitHub activity. The graph appears after the repository workflow runs successfully." />
+  
+<img src="./assets/statistics.svg" width="404" alt="07 / Statistics" />
 
 <a href="https://github.com/sekuchu/sekuchu/actions"><img src="https://img.shields.io/badge/Contribution_Graph-Workflow-0d1117?style=flat-square&logo=githubactions&logoColor=9aa889" alt="Contribution graph workflow" /></a>
 
