@@ -11,7 +11,7 @@
   <!-- Row 1 left: Followers -->
   <circle cx="21" cy="91" r="2.5" fill="#c77d55"/>
   <text x="30" y="94" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" letter-spacing="1.2" fill="#6e7681">FOLLOWERS</text>
-  <text x="30" y="124" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" fill="#e6edf3">5</text>
+  <text x="30" y="124" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" fill="#e6edf3">elon musk and jensen huang</text>
 
   <!-- Row 1 right: Following -->
   <circle cx="217" cy="91" r="2.5" fill="#9aa889"/>
@@ -21,12 +21,12 @@
   <!-- Row 2 left: Public repos (replace -- with your count) -->
   <circle cx="21" cy="157" r="2.5" fill="#8b7fc7"/>
   <text x="30" y="160" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" letter-spacing="1.2" fill="#6e7681">PUBLIC REPOS</text>
-  <text x="30" y="190" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" fill="#e6edf3">--</text>
+  <text x="30" y="190" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" fill="#e6edf3">just enough</text>
 
   <!-- Row 2 right: Total stars (replace -- with your count) -->
   <circle cx="217" cy="157" r="2.5" fill="#c77d55"/>
   <text x="226" y="160" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" letter-spacing="1.2" fill="#6e7681">TOTAL STARS</text>
-  <text x="226" y="190" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" fill="#e6edf3">--</text>
+  <text x="226" y="190" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" fill="#e6edf3">a lot :)</text>
 
   <!-- Bottom accent bar -->
   <rect x="18" y="206" width="368" height="2" fill="#21262d"/>
