@@ -6,7 +6,7 @@
       .card{fill:#0d1117;stroke:#30363d;stroke-width:1.2}
       .meta{font:11.5px 'DejaVu Sans Mono',monospace;letter-spacing:2px;fill:#9da7b3}
       .meta-dim{font:10.5px 'DejaVu Sans Mono',monospace;letter-spacing:1.5px;fill:#6e7681}
-      .value{font:700 26px 'DejaVu Sans Mono',monospace;fill:#e6edf3}
+      .value{font:700 17px 'DejaVu Sans Mono',monospace;fill:#e6edf3}
       .tag{font:9.5px 'DejaVu Sans Mono',monospace;letter-spacing:1px;fill:#6e7681}
     </style>
   </defs>
@@ -22,7 +22,7 @@
       <rect x="8" y="11" width="3" height="13" rx="1" fill="#c77d55"/>
       <text class="meta-dim" x="18" y="21">FOLLOWERS</text>
       <text class="tag" x="180" y="20.5" text-anchor="end">NETWORK</text>
-      <text class="value" x="18" y="56">5</text>
+      <text class="value" x="18" y="52">elon &amp; jensen</text>
     </g>
 
     <g transform="translate(224 52)">
@@ -30,7 +30,7 @@
       <rect x="8" y="11" width="3" height="13" rx="1" fill="#9aa889"/>
       <text class="meta-dim" x="18" y="21">FOLLOWING</text>
       <text class="tag" x="180" y="20.5" text-anchor="end">NETWORK</text>
-      <text class="value" x="18" y="56">3</text>
+      <text class="value" x="18" y="52">jesus christ</text>
     </g>
 
     <g transform="translate(22 136)">
@@ -38,7 +38,7 @@
       <rect x="8" y="11" width="3" height="13" rx="1" fill="#9a7fd1"/>
       <text class="meta-dim" x="18" y="21">PUBLIC REPOS</text>
       <text class="tag" x="180" y="20.5" text-anchor="end">SOURCE</text>
-      <text class="value" x="18" y="56">--</text>
+      <text class="value" x="18" y="52">just enough</text>
     </g>
 
     <g transform="translate(224 136)">
@@ -46,7 +46,7 @@
       <rect x="8" y="11" width="3" height="13" rx="1" fill="#e6edf3"/>
       <text class="meta-dim" x="18" y="21">TOTAL STARS</text>
       <text class="tag" x="180" y="20.5" text-anchor="end">SIGNAL</text>
-      <text class="value" x="18" y="56">--</text>
+      <text class="value" x="18" y="52">lots :)</text>
     </g>
 
     <path d="M22 222H414" stroke="#30363d" stroke-width="2"/>
