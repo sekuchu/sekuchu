@@ -1,52 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="460" height="270" viewBox="0 0 460 270" role="img" aria-labelledby="title desc">
-  <title id="title">07 / Statistics</title>
-  <desc id="desc">GitHub profile statistics: followers, following, public repositories, and total stars.</desc>
+  <title id="title">07 / GitHub Streak</title>
+  <desc id="desc">My current GitHub contribution streak, in days.</desc>
   <defs>
     <style>
       .card{fill:#0d1117;stroke:#30363d;stroke-width:1.2}
       .meta{font:11.5px 'DejaVu Sans Mono',monospace;letter-spacing:2px;fill:#9da7b3}
       .meta-dim{font:10.5px 'DejaVu Sans Mono',monospace;letter-spacing:1.5px;fill:#6e7681}
-      .value{font:700 17px 'DejaVu Sans Mono',monospace;fill:#e6edf3}
+      .hero{font:700 56px 'DejaVu Sans Mono',monospace;fill:#e6edf3}
+      .unit{font:10.5px 'DejaVu Sans Mono',monospace;letter-spacing:2px;fill:#6e7681}
       .tag{font:9.5px 'DejaVu Sans Mono',monospace;letter-spacing:1px;fill:#6e7681}
     </style>
   </defs>
   <rect width="460" height="270" rx="7" fill="#0d1117"/>
   <g transform="translate(12 12)">
     <rect class="card" width="436" height="246" rx="4"/>
-    <text class="meta" x="22" y="28">07 / STATISTICS</text>
-    <text class="meta-dim" x="414" y="28" text-anchor="end">GITHUB · PUBLIC</text>
+    <text class="meta" x="22" y="28">07 / GITHUB STREAK</text>
+    <text class="meta-dim" x="414" y="28" text-anchor="end">CONSECUTIVE DAYS</text>
     <path d="M22 40H414" stroke="#21262d" stroke-width="1"/>
 
     <g transform="translate(22 52)">
-      <rect width="190" height="72" rx="3" fill="#0f151d" stroke="#21262d" stroke-width="1"/>
+      <rect width="392" height="160" rx="3" fill="#0f151d" stroke="#21262d" stroke-width="1"/>
       <rect x="8" y="11" width="3" height="13" rx="1" fill="#c77d55"/>
-      <text class="meta-dim" x="18" y="21">FOLLOWERS</text>
-      <text class="tag" x="180" y="20.5" text-anchor="end">NETWORK</text>
-      <text class="value" x="18" y="52">elon &amp; jensen</text>
-    </g>
-
-    <g transform="translate(224 52)">
-      <rect width="190" height="72" rx="3" fill="#0f151d" stroke="#21262d" stroke-width="1"/>
-      <rect x="8" y="11" width="3" height="13" rx="1" fill="#9aa889"/>
-      <text class="meta-dim" x="18" y="21">FOLLOWING</text>
-      <text class="tag" x="180" y="20.5" text-anchor="end">NETWORK</text>
-      <text class="value" x="18" y="52">jesus christ</text>
-    </g>
-
-    <g transform="translate(22 136)">
-      <rect width="190" height="72" rx="3" fill="#0f151d" stroke="#21262d" stroke-width="1"/>
-      <rect x="8" y="11" width="3" height="13" rx="1" fill="#9a7fd1"/>
-      <text class="meta-dim" x="18" y="21">PUBLIC REPOS</text>
-      <text class="tag" x="180" y="20.5" text-anchor="end">SOURCE</text>
-      <text class="value" x="18" y="52">just enough</text>
-    </g>
-
-    <g transform="translate(224 136)">
-      <rect width="190" height="72" rx="3" fill="#0f151d" stroke="#21262d" stroke-width="1"/>
-      <rect x="8" y="11" width="3" height="13" rx="1" fill="#e6edf3"/>
-      <text class="meta-dim" x="18" y="21">TOTAL STARS</text>
-      <text class="tag" x="180" y="20.5" text-anchor="end">SIGNAL</text>
-      <text class="value" x="18" y="52">lots :)</text>
+      <text class="meta-dim" x="18" y="21">CURRENT STREAK</text>
+      <text class="tag" x="374" y="20.5" text-anchor="end">CONTRIBUTIONS</text>
+      <text class="hero" x="196" y="94" text-anchor="middle">30</text>
+      <text class="unit" x="196" y="122" text-anchor="middle">DAYS IN A ROW</text>
     </g>
 
     <path d="M22 222H414" stroke="#30363d" stroke-width="2"/>
